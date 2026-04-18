@@ -1,12 +1,12 @@
 {
-  "export_job_id": "918cd433-77f4-4144-8cd6-616ddf4a2e1c",
+  "export_job_id": "0fd2e18c-4433-439f-93bf-434bc1fa0014",
   "id_short": 779801,
-  "published_at": "2026-04-15T07:17:12Z",
+  "published_at": "2026-04-18T07:04:40Z",
   "repo_name": "all-restaurants-in-boca-raton-florida-us-sample-779801",
   "sample_asset_name": "beamstation_779801_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/779801/beamstation_779801_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_records": 44,
   "sample_sha256": "5a8d2e9048ae5e29d43b008680277e6319cdd4033b84f9fc612159aab8393d28",
   "sample_size_bytes": 119020,
-  "total_records": 435
+  "total_records": 448
 }
