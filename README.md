@@ -9,9 +9,9 @@
 | Dataset ID | `779801` |
 | Location | Boca Raton |
 | Category | Restaurants |
-| Full dataset size | 435 records |
-| Free sample size | 44 records (10.11%) |
-| Last export | 2026-04-07T12:14:01.867255+00:00 |
+| Full dataset size | 448 records |
+| Free sample size | 44 records (9.82%) |
+| Last export | 2026-04-14T12:03:28.071361+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boca-raton-florida-us-sample-779801/releases/download/sample-latest/beamstation_779801_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
