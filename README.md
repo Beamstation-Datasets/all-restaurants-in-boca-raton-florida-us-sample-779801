@@ -1,6 +1,6 @@
 # All Restaurants in Boca Raton, Florida, US
 
-> Free BeamStation sample export with 45 rows and masked direct-contact fields.
+> Free BeamStation sample export with 51 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `779801` |
 | Location | Boca Raton |
 | Category | Restaurants |
-| Full dataset size | 459 records |
-| Free sample size | 45 records (9.8%) |
-| Last export | 2026-04-28T13:37:21.420700+00:00 |
+| Full dataset size | 515 records |
+| Free sample size | 51 records (9.9%) |
+| Last export | 2026-05-06T01:42:26.260505+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-boca-raton-florida-us-sample-779801/releases/download/sample-latest/beamstation_779801_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
